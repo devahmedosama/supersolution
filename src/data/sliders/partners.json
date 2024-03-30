@@ -1,0 +1,44 @@
+{
+    "items": [
+        {
+            "image": "img/partners/1.svg",
+            "link": "#.",
+            "alt": "logo"
+        },
+        {
+            "image": "img/partners/2.svg",
+            "link": "#.",
+            "alt": "logo"
+        },
+        {
+            "image": "img/partners/3.svg",
+            "link": "#.",
+            "alt": "logo"
+        },
+        {
+            "image": "img/partners/4.svg",
+            "link": "#.",
+            "alt": "logo"
+        },
+        {
+            "image": "img/partners/5.svg",
+            "link": "#.",
+            "alt": "logo"
+        },
+        {
+            "image": "img/partners/6.svg",
+            "link": "#.",
+            "alt": "logo"
+        },
+        {
+            "image": "img/partners/7.svg",
+            "link": "#.",
+            "alt": "logo"
+        },
+        {
+            "image": "img/partners/8.svg",
+            "link": "#.",
+            "alt": "logo"
+        }
+    ]
+}

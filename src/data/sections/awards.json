@@ -1,0 +1,31 @@
+{
+    "title": "We do world-class work. Check out our Awards.",
+    "subtitle": "Honors & Awards",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing. Perspiciatis ipsum vero optio rerum molestiae, sintory ducimus, rem labore et delectus aspernatur.",
+    "items": [
+        {
+            "title": "Awwwards",
+            "year": "2019",
+            "subtitle": "Website Awards",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nisi earum quisquam corrupti rerum nam minus quae."
+        },
+        {
+            "title": "Site of the day",
+            "year": "2020",
+            "subtitle": "Website Awards",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nisi earum quisquam corrupti rerum nam minus quae."
+        },
+        {
+            "title": "Best design Awards",
+            "year": "2022",
+            "subtitle": "Website Awards",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nisi earum quisquam corrupti rerum nam minus quae."
+        },
+        {
+            "title": "Awwwards",
+            "year": "2023",
+            "subtitle": "Website Awards",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nisi earum quisquam corrupti rerum nam minus quae."
+        }
+    ]
+}

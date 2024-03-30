@@ -1,0 +1,19 @@
+{
+    "subtitle": "What we do?",
+    "title": "Content strategy for <br/>SaaS & B2B companies.",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing. Perspiciatis ipsum vero optio rerum molestiae, sintory ducimus, rem labore et delectus aspernatur! Sequi debitis vero, molestiae tempore eligendi quam sit repudiandae deleniti alias quority accusamus.",
+    "image": {
+        "url": "img/content/4.jpg",
+        "alt": "image"
+    },
+    "numbers": [
+        {
+            "label": "Years experience",
+            "value": "14"
+        },
+        {
+            "label": "Honors and awards",
+            "value": "45"
+        }
+    ]
+}

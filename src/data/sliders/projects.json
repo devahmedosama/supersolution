@@ -1,0 +1,10 @@
+{
+    "subtitle": "Our story.",
+    "title": "The digital future is just <br />around the corner",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing. Perspiciatis ipsum vero optio rerum molestiae, sintory ducimus, rem labore et delectus aspernatur! Sequi debitis.",
+    "button": {
+        "label": "View all projects",
+        "link": "/portfolio"
+    },
+    "numOfItems": 6
+}

@@ -1,0 +1,13 @@
+{
+    "subtitle": "Services",
+    "title": "A professional writer makes a big difference.",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing. Perspiciatis ipsum vero optio rerum molestiae, sintory ducimus, rem labore et delectus aspernatur! Sequi debitis vero, molestiae tempore eligendi quam sit repudiandae deleniti alias quority accusamus.",
+    "button1": {
+        "label": "More about us",
+        "link": "/about-2"
+    },
+    "button2": {
+        "label": "View portfolio",
+        "link": "/portfolio"
+    }
+}

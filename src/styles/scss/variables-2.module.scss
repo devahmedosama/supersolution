@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100;200;300;400;500;600;700;800;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&display=swap');
+
+$font-1: 'DM Serif Display', serif;
+$font-2: 'Outfit', sans-serif;
+
+$link-font: $font-2;
+
+$accent-1: #FF8A65;
+$accent-2: rgba(132, 209, 238, 1);
+
+$dark: rgba(56, 40, 38, 1);
+$light: rgba(255, 255, 255, 1);
+
+$dt-95: rgba(56, 40, 38, .95);
+$dt-90: rgba(56, 40, 38, .9);
+$dt-80: rgba(56, 40, 38, .8);
+$dt-70: rgba(56, 40, 38, .7);
+$dt-60: rgba(56, 40, 38, .6);
+$dt-50: rgba(56, 40, 38, .5);
+$dt-40: rgba(56, 40, 38, .4);
+$dt-30: rgba(56, 40, 38, .3);
+$dt-20: rgba(56, 40, 38, .2);
+$dt-10: rgba(56, 40, 38, .1);
+$dt-5: rgba(56, 40, 38, .05);
+
+$lt-95: rgba(255, 255, 255, .95);
+$lt-90: rgba(255, 255, 255, .9);
+$lt-80: rgba(255, 255, 255, .8);
+$lt-70: rgba(255, 255, 255, .7);
+$lt-60: rgba(255, 255, 255, .6);
+$lt-50: rgba(255, 255, 255, .5);
+$lt-40: rgba(255, 255, 255, .4);
+$lt-30: rgba(255, 255, 255, .3);
+$lt-20: rgba(255, 255, 255, .2);
+$lt-10: rgba(255, 255, 255, .1);
+$lt-5: rgba(255, 255, 255, .05);
+
+$gs-95: rgba(66, 51, 49, 1);
+$gs-90: rgba(76, 62, 60, 1);
+$gs-80: rgba(93, 86, 81, 1);
+$gs-70: rgba(116, 105, 103, 1);
+$gs-60: rgba(136, 126, 125, 1);
+$gs-50: rgba(155, 147, 146, 1);
+$gs-40: rgba(175, 169, 168, 1);
+$gs-30: rgba(195, 190, 190, 1);
+$gs-20: rgba(215, 212, 212, 1);
+$gs-10: rgba(235, 233, 233, 1);
+$gs-5: rgba(245, 244, 244, 1);
+
+$h1: 92px;
+$h2: 72px;
+$h3: 48px;
+$h4: 36px;
+$h5: 24px;
+$h6: 18px;
+
+$text-xs: 11px;
+$text-sm: 14px;
+$text-md: 17px;
+$text-lg: 19px;
+$text-xl: 22px;
+
+$link: 11px;
+
+$titles-font-weight: 400;
+$text-font-weight: 300;
+
+$t-sm: .2s cubic-bezier(0, 0, 0.3642, 1);
+$t-md: .4s cubic-bezier(0, 0, 0.3642, 1);
+$t-lg: .6s cubic-bezier(0, 0, 0.3642, 1);
+
+$site-background: $light;
+
+$top-panel-height: 100px;
+
+$menu-collapse-value: 1200px;
+
+:export {
+    accentColor: $accent-1;
+    darkColor: $dark;
+    lightColor: $light;
+}

@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+$font-1: 'Outfit', sans-serif;
+$font-2: 'Outfit', sans-serif;
+
+$link-font: $font-2;
+
+$accent-1: rgba(255, 167, 38, 1);
+$accent-2: rgba(132, 209, 238, 1);
+
+$dark: rgba(38, 50, 56, 1);
+$light: rgba(255, 255, 255, 1);
+
+$dt-95: rgba(38, 50, 56, .95);
+$dt-90: rgba(38, 50, 56, .9);
+$dt-80: rgba(38, 50, 56, .8);
+$dt-70: rgba(38, 50, 56, .7);
+$dt-60: rgba(38, 50, 56, .6);
+$dt-50: rgba(38, 50, 56, .5);
+$dt-40: rgba(38, 50, 56, .4);
+$dt-30: rgba(38, 50, 56, .3);
+$dt-20: rgba(38, 50, 56, .2);
+$dt-10: rgba(38, 50, 56, .1);
+$dt-5: rgba(38, 50, 56, .05);
+
+$lt-95: rgba(255, 255, 255, .95);
+$lt-90: rgba(255, 255, 255, .9);
+$lt-80: rgba(255, 255, 255, .8);
+$lt-70: rgba(255, 255, 255, .7);
+$lt-60: rgba(255, 255, 255, .6);
+$lt-50: rgba(255, 255, 255, .5);
+$lt-40: rgba(255, 255, 255, .4);
+$lt-30: rgba(255, 255, 255, .3);
+$lt-20: rgba(255, 255, 255, .2);
+$lt-10: rgba(255, 255, 255, .1);
+$lt-5: rgba(255, 255, 255, .05);
+
+$gs-95: rgba(49, 60, 66, 1);
+$gs-90: rgba(60, 71, 76, 1);
+$gs-80: rgba(81, 91, 96, 1);
+$gs-70: rgba(103, 112, 116, 1);
+$gs-60: rgba(125, 132, 136, 1);
+$gs-50: rgba(146, 152, 155, 1);
+$gs-40: rgba(168, 173, 175, 1);
+$gs-30: rgba(190, 193, 195, 1);
+$gs-20: rgba(212, 214, 215, 1);
+$gs-10: rgba(233, 234, 235, 1);
+$gs-5: rgba(244, 245, 245, 1);
+
+$h1: 92px;
+$h2: 72px;
+$h3: 48px;
+$h4: 36px;
+$h5: 24px;
+$h6: 18px;
+
+$text-xs: 11px;
+$text-sm: 14px;
+$text-md: 17px;
+$text-lg: 19px;
+$text-xl: 22px;
+
+$link: 11px;
+
+$titles-font-weight: 500;
+$text-font-weight: 300;
+
+$t-sm: .2s cubic-bezier(0, 0, 0.3642, 1);
+$t-md: .4s cubic-bezier(0, 0, 0.3642, 1);
+$t-lg: .6s cubic-bezier(0, 0, 0.3642, 1);
+
+$site-background: $dark;
+
+$top-panel-height: 100px;
+
+$menu-collapse-value: 1200px;
+
+:export {
+    accentColor: $accent-1;
+    darkColor: $dark;
+    lightColor: $light;
+}

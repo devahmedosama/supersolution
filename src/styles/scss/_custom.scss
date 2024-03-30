@@ -1,0 +1,227 @@
+/***************************
+
+Content
+
+***************************/
+
+.single-post-title {
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.partner-logo{
+    max-width: 100px;
+}
+.single-post-text {
+    ul {
+        padding: 0;
+        margin: 0;
+
+        & li {
+            display: flex;
+            justify-content: flex-start;
+            align-items: center;
+            line-height: 150%;
+            list-style-type: none;
+
+            &:before {
+                content: '';
+                width: 7px;
+                height: 7px;
+                border-radius: 50%;
+                background-color: $accent-1;
+                margin-right: 20px;
+            }
+        }
+    }
+    ol {
+        padding: 0;
+        margin: 0;
+
+        & li {
+            display: flex;
+            justify-content: flex-start;
+            align-items: center;
+            line-height: 150%;
+            list-style-type: none;
+        }
+    }
+    p, ul, ol, h1, h2, h3, h4, h5, h6, iframe, table, object, blockquote {
+        margin-bottom: 30px;
+
+        &:last-child {
+            margin-bottom: 0;
+        }
+    }
+}
+
+.mil-content-frame + .single-post-text > p:first-child {
+    &::first-letter {
+        color: $dark;
+        font-weight: $titles-font-weight;
+        padding-right: 25px;
+        line-height: 100%;
+        float: left;
+        font-size: 72px;
+        font-family: $font-1;
+    }
+}
+
+/***************************
+
+swiper
+
+***************************/
+
+.mil-content .swiper, .mil-content .swiper-container {
+    overflow: visible;
+}
+
+/***************************
+
+fancybox
+
+***************************/
+
+.fancybox-fx-slide-in-out.fancybox-slide--previous {
+    transform: translateY(60px) scale(.98);
+    opacity: 0;
+}
+
+.fancybox-fx-slide-in-out.fancybox-slide--next {
+    transform: translateY(60px) scale(.98);
+    opacity: 0;
+}
+
+.fancybox-fx-slide-in-out.fancybox-slide--current {
+    transform: translateY(0);
+    opacity: 1;
+}
+
+.fancybox-fx-fade-in-out.fancybox-slide--previous {
+    transform: translateX(-35%) scale(.9);
+    opacity: 0;
+}
+
+.fancybox-fx-fade-in-out.fancybox-slide--next {
+    transform: translateX(35%) scale(.9);
+    opacity: 0;
+}
+
+.fancybox-fx-fade-in-out.fancybox-slide--current {
+    transform: translateX(0);
+    opacity: 1;
+}
+
+.fancybox-button {
+    background: $dark;
+    opacity: 1;
+}
+
+.fancybox-button,
+.fancybox-button:link,
+.fancybox-button:visited {
+    color: $light;
+}
+
+.fancybox-button:hover {
+    color: $light;
+}
+
+.fancybox-button[disabled] {
+    color: $light;
+    opacity: 0 !important;
+}
+
+.fancybox-button[disabled]:hover {
+    color: $light;
+    opacity: 0;
+}
+
+.fancybox-bg {
+    background: $dark;
+}
+
+.fancybox-progress {
+    bottom: 0;
+    top: auto;
+    height: 4px;
+    background-color: $accent-1;
+}
+
+.fancybox-infobar {
+    color: $light;
+    padding: 0 15px;
+    width: auto;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-size: $link;
+    font-family: $font-1;
+    font-weight: 600;
+}
+
+.fancybox-image {
+    transform: scale(.87);
+}
+
+.fancybox-slide--video {
+    padding: 180px 20px;
+}
+
+/***************************
+
+swiper
+
+***************************/
+
+.mil-pagination-frame {
+    display: flex;
+    justify-content: center;
+    bottom: 45px;
+    transform: translateY(-75px);
+
+
+    & .mil-slider-pagination {
+        margin: 0;
+        width: auto;
+
+        & .swiper-pagination-bullet {
+            background-color: $dark;
+            transition: $t-sm;
+            margin: 0 6px;
+
+            &.swiper-pagination-bullet-active {
+                position: relative;
+                transform: scale(1.5);
+                margin: 0 8px;
+                background-color: $accent-1;
+            }
+        }
+    }
+
+    @media screen and (max-width: 992px) {
+        transform: translateY(-35px);
+    }
+}
+
+/***************************
+
+photoswipe
+
+***************************/
+
+body {
+    .pswp {
+        z-index: 999;
+    }
+    .pswp__bg {
+        z-index: 888;
+        background: #000;
+    }
+    .pswp__scroll-wrap {
+        z-index: 999;
+    }
+    .pswp__icn {
+        fill: #fff;
+    }
+}

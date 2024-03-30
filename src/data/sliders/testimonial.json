@@ -1,0 +1,34 @@
+{
+    "subtitle": "Reviews",
+    "title":  "They talk about us",
+    "button": {
+        "label": "View all",
+        "link": "#."
+    },
+    "items": [
+        {
+            "name": "Paul Trueman",
+            "image": "img/team/1.png",
+            "role": "CEO Mil design studio",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tenetur magni, voluptas accusamus ducimus officia at ipsam veniam ratione alias vero, totam non quam nesciunt deleniti qui, sunt quaerat. Fugit, enim!"
+        },
+        {
+            "name": "Paul Trueman",
+            "image": "img/team/2.png",
+            "role": "CEO Mil design studio",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tenetur magni, voluptas accusamus ducimus officia at ipsam veniam ratione alias vero, totam non quam nesciunt deleniti qui, sunt quaerat. Fugit, enim!"
+        },
+        {
+            "name": "Paul Trueman",
+            "image": "img/team/3.png",
+            "role": "CEO Mil design studio",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tenetur magni, voluptas accusamus ducimus officia at ipsam veniam ratione alias vero, totam non quam nesciunt deleniti qui, sunt quaerat. Fugit, enim!"
+        },
+        {
+            "name": "Paul Trueman",
+            "image": "img/team/4.png",
+            "role": "CEO Mil design studio",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tenetur magni, voluptas accusamus ducimus officia at ipsam veniam ratione alias vero, totam non quam nesciunt deleniti qui, sunt quaerat. Fugit, enim!"
+        }
+    ]
+}

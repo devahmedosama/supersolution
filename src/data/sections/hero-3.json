@@ -1,0 +1,20 @@
+{
+    "avatar": {
+        "image": "img/hero/4.png",
+        "name": "Emma Freeman"
+    },
+    "title": "Freelance Digital Marketing Expert",
+    "description": "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut <br />odit aut fugit, sed quia consequuntur magni ratione.",
+    "button1": {
+        "label": "More about us",
+        "link": "/about-3"
+    },
+    "button2": {
+        "label": "View portfolio",
+        "link": "/portfolio"
+    },
+    "image": {
+        "url": "img/hero/3.png",
+        "alt": "image"
+    }
+}

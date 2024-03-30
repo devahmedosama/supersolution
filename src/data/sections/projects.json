@@ -1,0 +1,9 @@
+{
+    "subtitle": "Portfolio",
+    "title": "Our creative works",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing. Perspiciatis ipsum vero optio rerum molestiae, sintory ducimus, rem labore et delectus aspernatur.",
+    "button": {
+        "label": "View all",
+        "link": "/portfolio"
+    }
+}

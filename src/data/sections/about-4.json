@@ -1,0 +1,19 @@
+{
+    "subtitle": "Our story.",
+    "title": "A professional writer <br />makes a big difference.",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing. Perspiciatis ipsum vero optio rerum molestiae, sintory ducimus, rem labore et delectus aspernatur! Sequi debitis vero, molestiae tempore eligendi quam sit repudiandae deleniti alias quority accusamus.",
+    "items": [
+        {
+            "icon": "img/icons/5.svg",
+            "label": "Customer Experiences",
+            "value": "Icon description"
+        },
+        {
+            "icon": "img/icons/6.svg",
+            "label": "Engineering and Design",
+            "value": "Icon description"
+        }
+    ],
+    "image1": "img/content/20.jpg",
+    "image2": "img/content/6.jpg"
+}

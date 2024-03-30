@@ -1,0 +1,35 @@
+{
+    "subtitle": "About us",
+    "title": "Writing content like you’ve never had before",
+    "description": "Perspiciatis ipsum vero optio rerum labore et delectus aspernatur.",
+    "button": {
+        "label": "Read more",
+        "link": "/about-2"
+    },
+    "gallery": [
+        {
+            "url": "img/content/8.jpg",
+            "width": "1000",
+            "height": "1500",
+            "alt": "img"
+        },
+        {
+            "url": "img/content/9.jpg",
+            "width": "1920",
+            "height": "1280",
+            "alt": "img"
+        },
+        {
+            "url": "img/content/10.jpg",
+            "width": "1000",
+            "height": "1500",
+            "alt": "img"
+        },
+        {
+            "url": "img/content/11.jpg",
+            "width": "1920",
+            "height": "1440",
+            "alt": "img"
+        }
+    ]
+}

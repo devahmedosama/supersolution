@@ -1,0 +1,81 @@
+/* -------------------------------------------
+
+Name: 		Lettery
+Version:    1.0
+Author:		Nazar Miller (millerDigitalDesign)
+Portfolio:  https://themeforest.net/user/millerdigitaldesign/portfolio?ref=MillerDigitalDesign
+
+p.s. I am available for Freelance hire (UI design, web development). email: miller.themes@gmail.com
+
+------------------------------------------- */
+/*--------------------------------------------
+
+1. common
+    - main
+    - typography
+    - images
+    - social
+    - color backgrounds
+    - button
+    - link
+    - badge
+    - spaces
+2. frame
+    - main
+    - preloader
+    - cursor
+    - custom scrollbar
+    - page transitions
+3. components
+    - dots
+    - cover
+    - image frame
+    - cards
+    - overlay
+    - portfolio items
+    - partners
+    - icon box
+    - fields
+    - reviews
+    - pagination
+    - accordion
+    - prices
+    - 404
+4. sections
+    - navigation
+    - partners
+    - counters
+    - about
+    - footers
+    - instagram
+    - services
+    - video
+    - reviews
+    - subscribe
+    - map
+    - portfolio
+5. custom
+    - fancybox
+    - swiper
+6. template-styles
+    - logo
+    - hero
+    - scroll hint 1
+    - small banner
+    - content frame
+    - team
+    - reviews
+    - hero 2
+    - hero 3
+    - scroll hint 2
+    - service card
+    - project info
+
+--------------------------------------------*/
+@import 'variables.module';
+@import 'common';
+@import 'frame';
+@import 'components';
+@import 'sections';
+@import 'custom';
+@import 'template-styles';

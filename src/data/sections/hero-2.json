@@ -1,0 +1,66 @@
+{
+    "title": "We create the best social media<br /> marketing campaigns",
+    "button1": {
+        "label": "Portfolio",
+        "link": "/portfolio"
+    },
+    "button2": {
+        "label": "About us",
+        "link": "/about-2"
+    },
+    "image": {
+        "url": "img/hero/5.jpg",
+        "alt": "Image"
+    },
+    "rotateText": "Scroll down - Scroll down - ",
+    "lineText": [
+        {
+            "text": "team of smm specialists",
+            "separator": "&#x2022;"
+        },
+        {
+            "text": "team of smm specialists",
+            "separator": "&#x2022;"
+        },
+        {
+            "text": "team of smm specialists",
+            "separator": "&#x2022;"
+        },
+        {
+            "text": "team of smm specialists",
+            "separator": "&#x2022;"
+        },
+        {
+            "text": "team of smm specialists",
+            "separator": "&#x2022;"
+        },
+        {
+            "text": "team of smm specialists",
+            "separator": "&#x2022;"
+        },
+        {
+            "text": "team of smm specialists",
+            "separator": "&#x2022;"
+        },
+        {
+            "text": "team of smm specialists",
+            "separator": "&#x2022;"
+        },
+        {
+            "text": "team of smm specialists",
+            "separator": "&#x2022;"
+        },
+        {
+            "text": "team of smm specialists",
+            "separator": "&#x2022;"
+        },
+        {
+            "text": "team of smm specialists",
+            "separator": "&#x2022;"
+        },
+        {
+            "text": "team of smm specialists",
+            "separator": ""
+        }
+    ]
+}

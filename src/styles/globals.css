@@ -1,0 +1,11 @@
+.mil-inline-list li{
+    margin: 0 25px;
+}
+.change_lang{
+    font-size: 18px;
+    font-weight: bold;
+    color: rgb(255, 167, 38) !important;
+}
+.contact_img{
+    width: 30px !important;
+}

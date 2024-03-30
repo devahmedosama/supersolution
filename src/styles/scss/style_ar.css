@@ -1,0 +1,67 @@
+@font-face {font-family: 'Cairo-ExtraLight'; src: url('../cairo/static/Cairo-ExtraLight.ttf'); } 
+@font-face {font-family: 'Cairo-Light'; src: url('../cairo/static/Cairo-Light.ttf'); } 
+@font-face {font-family: 'Cairo-Black'; src: url('../cairo/static/Cairo-Black.ttf'); } 
+
+body{
+    direction: rtl;
+}
+h1, h2, h3, h4, h5, h6, .mil-h1, .mil-h2, .mil-h3, .mil-h4, .mil-h5, .mil-h6{
+    font-family: 'Cairo-Black' !important;
+}
+.mil-h1{
+    font-size: 32px !important;
+}
+h6, .mil-h6 {
+    font-size: 18px;
+}
+p{
+    font-family: 'Cairo-Black';
+}
+.mil-link, .mil-link-hover, .mil-link-arrow{
+    font-family: 'Cairo-Black';
+    letter-spacing: 0;
+    font-size: 18px;
+}
+.mil-cursor{
+    direction: ltr;
+}
+.mil-portfolio-item .mil-item-description{
+    left: auto;
+    right: 60px;
+}
+.swiper{
+    direction: ltr;
+}
+.mil-item-description{
+   text-align: right;
+}
+.mil-button span{
+    font-family: 'Cairo-Black';
+    letter-spacing: 0;
+    font-size: 14px;
+}
+.mil-buttons-space{
+    margin-right: 0;
+    margin-left: 30px;
+}
+h3, .mil-h3 {
+    font-size: 28px;
+}
+h2, .mil-h2 {
+    font-size: 32px;
+}
+.mil-icon-box.mil-box-hori .mil-icon-box-text {
+    margin-left: 0;
+    margin-right: 30px;
+}
+h4.mil-buttons-space {
+    font-size: 24px;
+}
+.mil-logo .mil-h5 {
+    font-size: 20px;
+    font-weight: 500;
+}
+.mil-social li{
+    margin-left: 15px;
+    margin-right: 0;
+}

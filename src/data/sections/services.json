@@ -1,0 +1,33 @@
+{
+    "bg_image": "img/content/3.jpg",
+    "items": [
+        {
+            "num": "01",
+            "title": "Website Content",
+            "icon": "img/icons/1.svg",
+            "text": "Deleniti ratione, delectus beatae, exercitationem debitis, dignissimos similique, atque, officiis.",
+            "link": "/services/website-content"
+        },
+        {
+            "num": "02",
+            "title": "Blog Articles",
+            "icon": "img/icons/2.svg",
+            "text": "Deleniti ratione, delectus beatae, exercitationem debitis, dignissimos similique, atque, officiis.",
+            "link": "/services/blog-articles"
+        },
+        {
+            "num": "03",
+            "title": "Product Captions",
+            "icon": "img/icons/3.svg",
+            "text": "Deleniti ratione, delectus beatae, exercitationem debitis, dignissimos similique, atque, officiis.",
+            "link": "/services/product-captions"
+        },
+        {
+            "num": "04",
+            "title": "Email Writing",
+            "icon": "img/icons/4.svg",
+            "text": "Deleniti ratione, delectus beatae, exercitationem debitis, dignissimos similique, atque, officiis.",
+            "link": "/services/email-writing"
+        }
+    ]
+}

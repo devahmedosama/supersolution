@@ -1,0 +1,10 @@
+{
+    "subtitle": "Related projects",
+    "title": "You may also be interested<br/> in these projects",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing ducimus, rem labore et delectus aspernatur.",
+    "button": {
+        "label": "View all",
+        "link": "/portfolio"
+    },
+    "numOfItems": 3
+}

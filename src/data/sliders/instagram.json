@@ -1,0 +1,14 @@
+{
+    "images": [
+        "/img/content/instagram/1.png",
+        "/img/content/instagram/2.png",
+        "/img/content/instagram/3.png",
+        "/img/content/instagram/4.png",
+        "/img/content/instagram/5.png",
+        "/img/content/instagram/6.png"
+    ],
+    "button": {
+        "label": "Follow Us On Instagram",
+        "link": "https://instagram.com"
+    }
+}

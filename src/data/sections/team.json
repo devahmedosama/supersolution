@@ -1,0 +1,31 @@
+{
+    "subtitle": "Our team",
+    "title": "Meet our friendly team of professionals.",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing. Perspiciatis ipsum vero optio rerum molestiae, sintory ducimus, rem labore et delectus aspernatur! Sequi debitis vero, molestiae tempore eligendi quam sit repudiandae deleniti alias quority.",
+    "more": {
+        "label": "Read more",
+        "link": "/team"
+    },
+    "items": [
+        {
+            "image": "img/team/1.png",
+            "name": "Emma Newman",
+            "role": "Copywriter"
+        },
+        {
+            "image": "img/team/2.png",
+            "name": "Emma Newman",
+            "role": "Copywriter"
+        },
+        {
+            "image": "img/team/3.png",
+            "name": "Emma Newman",
+            "role": "Copywriter"
+        },
+        {
+            "image": "img/team/4.png",
+            "name": "Emma Newman",
+            "role": "Copywriter"
+        }
+    ]
+}

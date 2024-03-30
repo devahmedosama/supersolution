@@ -1,0 +1,110 @@
+{
+    "subtitle": "Prices",
+    "title": "Choose the optimal price plan",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum fuga ratione cum maxime ullam id voluptatibus commodi dolorem at, aut, odio, amet quod molestias possimus. Sunt repudiandae ipsam, consectetur repellendus.",
+    "button": {
+        "label": "Contact us",
+        "link": "/contact"
+    },
+    "items": [
+        {
+            "name": "Free",
+            "subname": "Basic functionality",
+            "price": "$0",
+            "price_after": "/mo",
+            "price_label": "Free forever",
+            "list": [
+                {
+                    "active": 1,
+                    "value": "Dolorum sed doloribus"
+                },
+                {
+                    "active": 1,
+                    "value": "Consectetur adipisicing elit"
+                },
+                {
+                    "active": 0,
+                    "value": "Maxime libero"
+                },
+                {
+                    "active": 0,
+                    "value": "Atque esse odit"
+                },
+                {
+                    "active": 0,
+                    "value": "Laboriosam corporis"
+                }
+            ],
+            "button": {
+                "label": "Choose a plan",
+                "link": "/contact"
+            }
+        },
+        {
+            "name": "Pro",
+            "subname": "More advanced",
+            "price": "$89",
+            "price_after": "/mo",
+            "price_label": "Per month",
+            "list": [
+                {
+                    "active": 1,
+                    "value": "Dolorum sed doloribus"
+                },
+                {
+                    "active": 1,
+                    "value": "Consectetur adipisicing elit"
+                },
+                {
+                    "active": 1,
+                    "value": "Maxime libero"
+                },
+                {
+                    "active": 0,
+                    "value": "Atque esse odit"
+                },
+                {
+                    "active": 0,
+                    "value": "Laboriosam corporis"
+                }
+            ],
+            "button": {
+                "label": "Choose a plan",
+                "link": "/contact"
+            }
+        },
+        {
+            "name": "Enterprise",
+            "subname": "For large business",
+            "price": "$399",
+            "price_after": "/mo",
+            "price_label": "Per month",
+            "list": [
+                {
+                    "active": 1,
+                    "value": "Dolorum sed doloribus"
+                },
+                {
+                    "active": 1,
+                    "value": "Consectetur adipisicing elit"
+                },
+                {
+                    "active": 1,
+                    "value": "Maxime libero"
+                },
+                {
+                    "active": 1,
+                    "value": "Atque esse odit"
+                },
+                {
+                    "active": 1,
+                    "value": "Laboriosam corporis"
+                }
+            ],
+            "button": {
+                "label": "Choose a plan",
+                "link": "/contact"
+            }
+        }
+    ]
+}
