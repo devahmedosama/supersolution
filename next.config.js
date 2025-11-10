@@ -7,7 +7,7 @@ const nextConfig = {
   swcMinify: true,
   // i18n,
   env:{
-    base_url:'https://admin.goldenarroww.co/'
+    base_url:'https://superadmin.superoffice.sa/'
   }
 }
 module.exports = nextConfig
